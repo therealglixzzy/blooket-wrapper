@@ -4,9 +4,9 @@ Documentation for the node.js Blooket library
 
 ## Documentation
 
-- [Basic Usage](https://github.com/glixxzzy/blooket-wrapper/blob/main/Documention.md#basic-usage)
-- [Functions](https://github.com/glixxzzy/blooket-wrapper/blob/main/Documention.md#functions)
-- [Events](https://github.com/glixxzzy/blooket-wrapper/blob/main/Documention.md#events)
+- [Basic Usage](https://github.com/therealglixzzy/blooket-wrapper/blob/main/Documention.md#basic-usage)
+- [Functions](https://github.com/therealglixzzy/blooket-wrapper/blob/main/Documention.md#functions)
+- [Events](https://github.com/therealglixzzy/blooket-wrapper/blob/main/Documention.md#events)
 
 ### Usage
 ```js
